@@ -10,7 +10,7 @@ const ACTIONS = {
     divide: "/",
     allClear: 'AC',
     equals: '=',
-    clear: '<-'
+    clear: 'C'
 };
 Object.freeze(ACTIONS)
 
